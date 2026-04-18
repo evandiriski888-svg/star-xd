@@ -11,7 +11,7 @@ export default {
 
   // If you don't have session id, use pairing code
   // Put your WhatsApp number here (without +)
-  PAIRING_NUMBER: "",
+  PAIRING_NUMBER: "6287836689814",
   
   SESSION_SITE: "https://pair.malvintech.sbs",
 
